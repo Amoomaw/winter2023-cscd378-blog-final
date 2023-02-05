@@ -1,0 +1,5 @@
+[Sun Feb 05 13:02:42.487278 2023] [mpm_winnt:notice] [pid 19904:tid 436] AH00455: Apache/2.4.54 (Win64) OpenSSL/1.1.1q PHP/8.1.10 configured -- resuming normal operations
+[Sun Feb 05 13:02:42.488276 2023] [mpm_winnt:notice] [pid 19904:tid 436] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:58:15
+[Sun Feb 05 13:02:42.488276 2023] [core:notice] [pid 19904:tid 436] AH00094: Command line: 'C:\\Users\\Alexander\\Documents\\GitHub\\winter2023-cscd378-blog-final\\bin\\apache\\httpd-2.4.54-win64-VS16\\bin\\httpd -d C:/Users/Alexander/Documents/GitHub/winter2023-cscd378-blog-final/bin/apache/httpd-2.4.54-win64-VS16'
+[Sun Feb 05 13:02:42.503235 2023] [mpm_winnt:notice] [pid 19904:tid 436] AH00418: Parent: Created child process 4200
+[Sun Feb 05 13:02:43.699730 2023] [mpm_winnt:notice] [pid 4200:tid 276] AH00354: Child: Starting 64 worker threads.

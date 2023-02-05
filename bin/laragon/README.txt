@@ -8,7 +8,7 @@ password:
 
 ----------------------------------------------------
 Document Root:
-C:\laragon\www
+C:/Users/Alexander/Documents/GitHub/winter2023-cscd378-blog-final/laragon/www
 
 
 
